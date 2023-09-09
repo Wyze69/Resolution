@@ -1,1 +1,3 @@
 Halo semuanya lorem ipsum dolor 
+
+Ini adalah perubahan ke 2 dari repositori ini, lorem ipsum dolor 
