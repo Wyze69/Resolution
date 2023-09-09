@@ -1,0 +1,5 @@
+Ini adalah rencana tambahan untuk repository yang sedang digunakan oleh saya :
+-JS
+-Laravel
+-Vlog
+=ss
